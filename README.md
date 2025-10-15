@@ -15,3 +15,6 @@ https://github.com/user-attachments/assets/3c1edc2e-e193-434a-80bf-9a84bc4c37cd
 
 ### Example 2: 
 https://github.com/user-attachments/assets/16bd52a1-6fdd-4e4b-a81c-f453c39d209e
+
+### Example 3:
+https://github.com/user-attachments/assets/6e6c4976-e31a-47f4-8291-880ee92acc1a

@@ -18,3 +18,6 @@ https://github.com/user-attachments/assets/16bd52a1-6fdd-4e4b-a81c-f453c39d209e
 
 ### Example 3:
 https://github.com/user-attachments/assets/6e6c4976-e31a-47f4-8291-880ee92acc1a
+
+### Example 4:
+https://github.com/user-attachments/assets/c20650c6-3f35-4e05-bd03-1270d1b5235f
